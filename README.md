@@ -1,7 +1,4 @@
 
-
-### [Demo](https://nandomoreirame.github.io/dotX/)
-
 ![dotX - free Jekyll theme](/screenshot.png)
 
 
