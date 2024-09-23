@@ -25,8 +25,8 @@ https://github.com/user-attachments/assets/c4902d30-ee8b-4cf3-a5d2-0fbaee643d45
 Install anaconda following the [anaconda installation documentation](https://docs.anaconda.com/anaconda/install/).
 Create an environment with all required packages with the following command :
 ```bashscript
-conda env create -f medclipsam_env.yml
-conda activate medclipsam
+conda env create -f mast3rgrasper.yml
+conda activate mast3rgrasper
 ```
 then setup the segment-anything library:
 ```bashscript
