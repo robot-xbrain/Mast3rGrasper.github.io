@@ -14,17 +14,10 @@
 
 1. Download or clone repo `git clone https://github.com/robot-xbrain/Mast3rGrasper.github.io.git`
 2. Enter the folder: `cd Mast3rGrasper/`
-3. Install Ruby gems: `bundle install`
-4. Start Jekyll server: `jekyll serve`
+3. Installation: `pip install -r requirements.txt`
+4. run demo: `sh run.sh`
 
-Access, [localhost:4000/dotX](http://localhost:4000/dotX)
 
-### Deploy in Github pages in 2 steps
-
-1. Change the variables `GITHUB_REPONAME` and `GITHUB_REPO_BRANCH` in `Rakefile`
-2. Run `rake` or `rake publish` for build and publish on Github
-
----
 
 ### Using Rake tasks
 
