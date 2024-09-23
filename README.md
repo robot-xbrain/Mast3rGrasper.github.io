@@ -24,9 +24,12 @@ Constructing a 3D scene capable of handling open-ended language queries is a cri
   <a href="https://www.youtube.com/watch?v=tuhOl5z2cGc" target="_blank">
     <img src="https://github.com/user-attachments/assets/7058a860-bcf9-4419-a288-6816f3626232" height="240"/>
   </a>
+
+  <a href="https://www.youtube.com/watch?v=BzThkPkL1zU" target="_blank">
+    <img src="https://github.com/user-attachments/assets/4ab7f97d-ec43-451f-b597-4f3c42439cbf" height="240"/>
+  </a>
+  
 </div>
-
-
 
 ## Prerequisites & Installation
 Install anaconda following the [anaconda installation documentation](https://docs.anaconda.com/anaconda/install/).
