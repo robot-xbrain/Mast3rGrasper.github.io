@@ -1,6 +1,5 @@
 
-
-
+![dotX - free Jekyll theme](/screenshot.png)
 
 ### Overview
 ---
