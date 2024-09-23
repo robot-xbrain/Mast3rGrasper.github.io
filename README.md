@@ -12,8 +12,8 @@
 
 ### Start in 4 steps
 
-1. Download or clone repo `git clone git@github.com:nandomoreirame/dotX.git`
-2. Enter the folder: `cd dotX/`
+1. Download or clone repo `git clone https://github.com/robot-xbrain/Mast3rGrasper.github.io.git`
+2. Enter the folder: `cd Mast3rGrasper/`
 3. Install Ruby gems: `bundle install`
 4. Start Jekyll server: `jekyll serve`
 
