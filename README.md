@@ -1,6 +1,7 @@
 # MASt3RGrasper
 
-!(/screenshot.png)
+![dotX - free Jekyll theme](/screenshot.png)
+
 ## Overview
 ---
 ***Abstract:***
