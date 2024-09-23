@@ -42,20 +42,9 @@ download model checkpoints for SAM and place them in the segment-anything direct
 sh run.sh
 ```
 
-
-
-
-### Using Rake tasks
-
-* Create a new page: `rake page name="contact.md"`
-* Create a new post: `rake post title="TITLE OF THE POST"`
-
 ---
 
 ### Copyright and license
 
 It is under [the MIT license](/LICENSE).
 
-Enjoy :yum:
-
-by [nandomoreira.me](https://nandomoreira.me)
