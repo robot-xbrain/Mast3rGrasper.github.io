@@ -15,9 +15,7 @@ Constructing a 3D scene capable of handling open-ended language queries is a cri
 
 * **Version:** 1.0.0
 
-<a href="https://youtu.be/OBGf7L3iKsM" target="_blank"><img src="Notes/figures/play-video.png" height="240"/></a>
-
-
+<a href="https://www.youtube.com/watch?v=ZFOOuQ-oRI0" target="_blank"><img src="https://github.com/user-attachments/assets/2c5d227c-0d9b-4d58-90e8-da79958a556b" height="240"/></a>
 
 
 ## Prerequisites & Installation
