@@ -15,22 +15,21 @@ Constructing a 3D scene capable of handling open-ended language queries is a cri
 
 * **Version:** 1.0.0
 
-
 <div style="display: flex;">
   <a href="https://www.youtube.com/watch?v=ZFOOuQ-oRI0" target="_blank">
-    <img src="https://github.com/user-attachments/assets/59c64cee-fe29-44e4-8cd8-c4d8129f0350" height="240"/>
+    <img src="https://github.com/user-attachments/assets/59c64cee-fe29-44e4-8cd8-c4d8129f0350" width="320" height="240"/>
   </a>
   
   <a href="https://www.youtube.com/watch?v=tuhOl5z2cGc" target="_blank">
-    <img src="https://github.com/user-attachments/assets/7058a860-bcf9-4419-a288-6816f3626232" height="240"/>
+    <img src="https://github.com/user-attachments/assets/7058a860-bcf9-4419-a288-6816f3626232" width="320" height="240"/>
   </a>
 
   <a href="https://www.youtube.com/watch?v=BzThkPkL1zU" target="_blank">
-    <img src="https://github.com/user-attachments/assets/4ab7f97d-ec43-451f-b597-4f3c42439cbf" height="240"/>
+    <img src="https://github.com/user-attachments/assets/4ab7f97d-ec43-451f-b597-4f3c42439cbf" width="320" height="240"/>
   </a>
 
   <a href="https://www.youtube.com/watch?v=02DgbxpQ4_s" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c0da089c-30a9-447b-bb79-fc8a1cf49120" height="240"/>
+    <img src="https://github.com/user-attachments/assets/c0da089c-30a9-447b-bb79-fc8a1cf49120" width="320" height="240"/>
   </a>
 </div>
 
