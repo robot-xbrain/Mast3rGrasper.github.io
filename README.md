@@ -19,6 +19,10 @@ https://github.com/user-attachments/assets/5c93d05d-09bb-480f-a505-7fe65ad4e687
 
 https://github.com/user-attachments/assets/c4902d30-ee8b-4cf3-a5d2-0fbaee643d45
 
+<a href="https://www.youtube.com/embed/ZFOOuQ-oRI0" target="_blank"><img src="Notes/figures/play-video.png" height="240"/></a>
+
+
+
 
 ## Prerequisites & Installation
 Install anaconda following the [anaconda installation documentation](https://docs.anaconda.com/anaconda/install/).
