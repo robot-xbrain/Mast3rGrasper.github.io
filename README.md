@@ -30,7 +30,7 @@ Constructing a 3D scene capable of handling open-ended language queries is a cri
   </a>
 
   <a href="https://www.youtube.com/watch?v=02DgbxpQ4_s" target="_blank">
-    <img src="https://github.com/user-attachments/assets/902e9171-a8ca-4508-8827-d7eeb43a4f69" height="240"/>
+    <img src="https://github.com/user-attachments/assets/c0da089c-30a9-447b-bb79-fc8a1cf49120" height="240"/>
   </a>
 </div>
 
