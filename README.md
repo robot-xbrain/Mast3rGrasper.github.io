@@ -1,6 +1,5 @@
-# MASt3RGrasper
+# MASt3RGrasper: A Real-Time Language-Guided Robotic Grasping Approach with Minimal RGB Images
 
-![dotX - free Jekyll theme](/screenshot.png)
 
 ## Overview
 ---
