@@ -20,6 +20,21 @@ https://github.com/user-attachments/assets/5c93d05d-09bb-480f-a505-7fe65ad4e687
 
 https://github.com/user-attachments/assets/c4902d30-ee8b-4cf3-a5d2-0fbaee643d45
 
+### Experimental Visualization
+
+<p float="left">
+  <video width="320" height="240" controls>
+    <source src="https://github.com/user-attachments/assets/a2fffa0b-8e5a-4c54-8246-99c4b16e9ccd" type="video/mp4">
+  </video>
+  <video width="320" height="240" controls>
+    <source src="https://github.com/user-attachments/assets/5c93d05d-09bb-480f-a505-7fe65ad4e687" type="video/mp4">
+  </video>
+  <video width="320" height="240" controls>
+    <source src="https://github.com/user-attachments/assets/c4902d30-ee8b-4cf3-a5d2-0fbaee643d45" type="video/mp4">
+  </video>
+</p>
+
+
 ### Start in 4 steps
 
 1. Download or clone repo `git clone https://github.com/robot-xbrain/Mast3rGrasper.github.io.git`
