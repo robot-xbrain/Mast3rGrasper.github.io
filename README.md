@@ -13,8 +13,10 @@ Constructing a 3D scene capable of handling open-ended language queries is a cri
 
 ### Experimental Visualization
 
+* **Version:** 1.0.0
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZFOOuQ-oRI0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://youtu.be/OBGf7L3iKsM" target="_blank"><img src="Notes/figures/play-video.png" height="240"/></a>
+
 
 
 
