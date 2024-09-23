@@ -1,5 +1,6 @@
 # MASt3RGrasper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 
+Code for reproducing experiments for the paper "MASt3RGrasper: A Real-Time Language-Guided Robotic Grasping Approach with Minimal RGB Images"
 
 ## Overview
 ---
