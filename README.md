@@ -36,12 +36,9 @@ cd ..
 ```
 download model checkpoints for SAM and place them in the segment-anything directory
 
-### Start in 4 steps
+### Start Demo
 
-1. Download or clone repo `git clone https://github.com/robot-xbrain/Mast3rGrasper.github.io.git`
-2. Enter the folder: `cd Mast3rGrasper/`
-3. Installation: `pip install -r requirements.txt`
-4. run demo: `sh run.sh`
+run demo: `sh run.sh`
 
 
 
