@@ -1,6 +1,6 @@
 # MASt3RGrasper
 
-(/screenshot.png)
+!(/screenshot.png)
 ## Overview
 ---
 ***Abstract:***
