@@ -20,18 +20,17 @@ Constructing a 3D scene capable of handling open-ended language queries is a cri
 
 ### Experimental Visualization
 
-
-
-https://github.com/user-attachments/assets/e3928bf7-e23d-4cce-a0df-dc315bdf8f70
-
-
-
-https://github.com/user-attachments/assets/c8d379e9-2492-42e9-a390-ab5e9ef49c5d
-
-
-
-https://github.com/user-attachments/assets/7e3081ae-d127-4633-9a21-89485dbaf2a7
-
+<div style="display: flex; justify-content: space-between;">
+  <video width="250" controls>
+    <source src="https://github.com/user-attachments/assets/e3928bf7-e23d-4cce-a0df-dc315bdf8f70" type="video/mp4">
+  </video>
+  <video width="250" controls>
+    <source src="https://github.com/user-attachments/assets/c8d379e9-2492-42e9-a390-ab5e9ef49c5d" type="video/mp4">
+  </video>
+  <video width="250" controls>
+    <source src="https://github.com/user-attachments/assets/7e3081ae-d127-4633-9a21-89485dbaf2a7" type="video/mp4">
+  </video>
+</div>
 
 ### Start in 4 steps
 
