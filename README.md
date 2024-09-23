@@ -18,11 +18,13 @@ Constructing a 3D scene capable of handling open-ended language queries is a cri
 <img width="818" alt="image" src="https://github.com/user-attachments/assets/d730795a-aae8-4db1-a7e0-b95b1834aaef">
 
 
-### 3D Scene Reconstruction from Two RGB Images
+### Experimental Results
 
 
 
-https://github.com/user-attachments/assets/691b86a5-45ca-4516-8fda-c82b92e57ac5
+
+https://github.com/user-attachments/assets/e8dfe7cd-4d99-4037-aa7a-bd05cbb870b6
+
 
 
 
