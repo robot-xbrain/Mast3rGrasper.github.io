@@ -21,7 +21,20 @@ https://github.com/user-attachments/assets/5c93d05d-09bb-480f-a505-7fe65ad4e687
 https://github.com/user-attachments/assets/c4902d30-ee8b-4cf3-a5d2-0fbaee643d45
 
 
-
+## Prerequisites & Installation
+Install anaconda following the [anaconda installation documentation](https://docs.anaconda.com/anaconda/install/).
+Create an environment with all required packages with the following command :
+```bashscript
+conda env create -f medclipsam_env.yml
+conda activate medclipsam
+```
+then setup the segment-anything library:
+```bashscript
+cd segment-anything
+pip install -e .
+cd ..
+```
+download model checkpoints for SAM and place them in the segment-anything directory
 
 ### Start in 4 steps
 
