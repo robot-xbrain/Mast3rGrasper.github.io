@@ -53,7 +53,7 @@ download model checkpoints for SAM and place them in the segment-anything direct
 ### Start Demo
 
 ```bashscript
-sh run.sh
+sh run_sim.sh
 ```
 
 ---
