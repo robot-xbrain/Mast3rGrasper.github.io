@@ -1,0 +1,1 @@
+python main_sim.py --image_path ./data/images/ --mask_path ./data/masks/ --track_len 2 --grasp_type grasp_net

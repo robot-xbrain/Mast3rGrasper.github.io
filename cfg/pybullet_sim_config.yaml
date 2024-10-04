@@ -1,0 +1,11 @@
+time_step: 0.009
+image_path: "./data/images"
+pose_path: "./data/poses"
+start_joint: [-29.94*np.pi/180,-86.55*np.pi/180,68.86*np.pi/180,-67*np.pi/180,-76.5*np.pi/180,161*np.pi/180]
+target_joint: [25.67*np.pi/180,-81.52*np.pi/180,64.83*np.pi/180,-64.37*np.pi/180,-110.02*np.pi/180,198*np.pi/180]
+# start_joint: [ 3.05454212, -3.0431754,  1.53439065, 3.09702879,  1.82308185, -3.02451467]
+# target_joint: [ -2.35474124, -3.04691817,  1.02959357,  0.18191783, -1.29287895,  0.66261119]
+capture_type: "joint" #time or joint, time is 1s capture once, joint type uses txt in grasper
+min_obj_num_one_scene: 4
+max_obj_num_one_scene: 8
+obj_in_scene: True #if obj in the scene, false is random, true represents obj must in the scene
